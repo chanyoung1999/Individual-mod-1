@@ -5,7 +5,7 @@
 This was the very first code I've been working on for the healthbar of the game I'm developing. It is meant to allow the health bar to function with a filler that would decrease and increase whether a player is taking a damage from the enemy or waiting to regenerate.
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video]https://www.youtube.com/watch?v=OyyD5Q5IZ2I&ab_channel=Chan-YoungChoi
 
 # Development Environment
 
